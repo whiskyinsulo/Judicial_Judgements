@@ -1,5 +1,5 @@
 # 司法院裁判書結構化與開放資料
-Judicial_Judgements
+Judicial.gov.tw - Judgements Open Data
 
 # 計畫目的
 
@@ -38,6 +38,12 @@ Judicial_Judgements
 
 從現在釋出的版本，可以看到裁判書本身的結構化程度不足，內容排版不佳，同時也缺乏與原文（裁判書搜尋網站）的連結。也就是要作為一個實用性較高的資料內容，還須要進一步對內容拆解與更好的結構化。
 
+# ToDo
+1. 判決書基礎架構與分類
+2. 判決書結構標準
+3. Parser - formatter - viewer
+3. Atoma Ntoso XML 結構化
+
 
 # 相關連結
 
@@ -65,5 +71,3 @@ Judicial_Judgements
 - [LegalRuleML]
 - [Atoma Ntoso]
 - [ LegalXML]
-
-Judicial.gov.tw - Judgements Open Data
